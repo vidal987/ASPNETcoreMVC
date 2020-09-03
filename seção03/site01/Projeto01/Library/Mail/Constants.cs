@@ -13,7 +13,7 @@ namespace Projeto01.Library.Mail
 
         //Autenticação Gmail
         public readonly static string Usuario = "mvsouza.af@gmail.com";
-        public readonly static string Senha = "987994180";
+        public readonly static string Senha = "";
 
         //Servidor SMTP
         public readonly static string ServidorSMTP = "smtp.gmail.com";
